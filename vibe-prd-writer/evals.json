@@ -1,0 +1,23 @@
+{
+  "skill_name": "vibe-prd-writer",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我想做一个AI代码审查工具，帮助开发者提高代码质量",
+      "expected_output": "A one-page PRD with clear why, target users, core feature, scope boundaries, success metrics, and tech recommendations",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "帮我写个PRD，我要vibe code一个客户反馈系统",
+      "expected_output": "Structured PRD document with guided questioning and technical recommendations",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "我想做一个销售业绩仪表板，给团队看数据",
+      "expected_output": "Complete PRD including product positioning, user definition, and actionable tech stack",
+      "files": []
+    }
+  ]
+}
